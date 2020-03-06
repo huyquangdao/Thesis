@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0932af53-ecfc-49dd-99b5-099d0706837e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XQO8iSn9ZLrUKtd4EZwG8wRxi6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/scripts/dataset" />
+      <recent name="$PROJECT_DIR$/scripts/parser/thirdparty" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for test_data_processor.TestCDRProcessor">
+    <configuration name="Unittests for test_data_managers.TestCDRDataManager.test_cdr_data_manager_merge_documents" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Thesis2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_data_managers.TestCDRDataManager.test_cdr_data_manager_merge_documents&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_data_processor.TestCDRProcessor" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Thesis2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_data_processor.TestCDRProcessor&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_data_processor.TestCDRProcessor.test_generate_data" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Thesis2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_data_processor.TestCDRProcessor.test_generate_data&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_preprocess.TestPreprocess" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Thesis2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_preprocess.TestPreprocess&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_preprocess.TestPreprocess.test_preprocess" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Thesis2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_preprocess.TestPreprocess.test_preprocess&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for test_data_processor.TestCDRProcessor" />
+        <item itemvalue="Python tests.Unittests for test_data_processor.TestCDRProcessor.test_generate_data" />
+        <item itemvalue="Python tests.Unittests for test_preprocess.TestPreprocess.test_preprocess" />
+        <item itemvalue="Python tests.Unittests for test_preprocess.TestPreprocess" />
+        <item itemvalue="Python tests.Unittests for test_data_managers.TestCDRDataManager.test_cdr_data_manager_merge_documents" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0932af53-ecfc-49dd-99b5-099d0706837e" name="Default Changelist" comment="" />
+      <created>1580974694443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580974694443</updated>
+      <workItem from="1580974705884" duration="3255000" />
+      <workItem from="1580977968364" duration="217000" />
+      <workItem from="1580978204891" duration="16359000" />
+      <workItem from="1581017562248" duration="3232000" />
+      <workItem from="1581065797374" duration="12885000" />
+      <workItem from="1581093961405" duration="6240000" />
+      <workItem from="1581241068973" duration="13488000" />
+      <workItem from="1581327118326" duration="16411000" />
+      <workItem from="1581345613979" duration="62000" />
+      <workItem from="1581346119206" duration="372000" />
+      <workItem from="1581346510297" duration="5000" />
+      <workItem from="1581346531427" duration="4000" />
+      <workItem from="1581347132479" duration="459000" />
+      <workItem from="1583231018881" duration="3746000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="730" y="288" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581008122358">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="730" y="288" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1581008122358" />
+    <state x="780" y="296" key="FileChooserDialogImpl" timestamp="1581017853033">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="780" y="296" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1581017853033" />
+    <state width="1809" height="174" key="GridCell.Tab.0.bottom" timestamp="1581347590817">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="174" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1581347590817" />
+    <state width="1809" height="174" key="GridCell.Tab.0.center" timestamp="1581347590814">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="174" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1581347590814" />
+    <state width="1809" height="174" key="GridCell.Tab.0.left" timestamp="1581347590813">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="174" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1581347590813" />
+    <state width="1809" height="174" key="GridCell.Tab.0.right" timestamp="1581347590816">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="174" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1581347590816" />
+    <state width="1809" height="417" key="GridCell.Tab.1.bottom" timestamp="1581345063851">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="417" key="GridCell.Tab.1.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1581345063851" />
+    <state width="1809" height="417" key="GridCell.Tab.1.center" timestamp="1581345063850">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="417" key="GridCell.Tab.1.center/65.24.1855.1056@65.24.1855.1056" timestamp="1581345063850" />
+    <state width="1809" height="417" key="GridCell.Tab.1.left" timestamp="1581345063850">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="417" key="GridCell.Tab.1.left/65.24.1855.1056@65.24.1855.1056" timestamp="1581345063850" />
+    <state width="1809" height="417" key="GridCell.Tab.1.right" timestamp="1581345063850">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="417" key="GridCell.Tab.1.right/65.24.1855.1056@65.24.1855.1056" timestamp="1581345063850" />
+    <state x="580" y="276" key="IDE.errors.dialog" timestamp="1580974772513">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="580" y="276" key="IDE.errors.dialog/65.24.1855.1056@65.24.1855.1056" timestamp="1580974772513" />
+    <state x="486" y="174" key="SettingsEditor" timestamp="1581067995257">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="486" y="174" key="SettingsEditor/65.24.1855.1056@65.24.1855.1056" timestamp="1581067995257" />
+    <state width="927" height="542" key="XDebugger.FullValuePopup" timestamp="1581255396576">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="927" height="542" key="XDebugger.FullValuePopup/65.24.1855.1056@65.24.1855.1056" timestamp="1581255396576" />
+    <state x="655" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1583496710085">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="655" y="367" key="com.intellij.ide.util.TipDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1583496710085" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Thesis2$Unittests_for_test_data_managers_TestCDRDataManager_test_cdr_data_manager_merge_documents.coverage" NAME="Unittests for test_data_managers.TestCDRDataManager.test_cdr_data_manager_merge_documents Coverage Results" MODIFIED="1581009099249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/test" />
+    <SUITE FILE_PATH="coverage/Thesis2$Unittests_for_test_data_processor_TestCDRProcessor_test_generate_data.coverage" NAME="Unittests for test_data_processor.TestCDRProcessor.test_generate_data Coverage Results" MODIFIED="1581018846163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/test" />
+    <SUITE FILE_PATH="coverage/Thesis2$Unittests_for_test_data_readers_TestCDRProcessor.coverage" NAME="Unittests for test_data_readers.TestCDRProcessor Coverage Results" MODIFIED="1581008359342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/test" />
+    <SUITE FILE_PATH="coverage/Thesis2$Unittests_for_test_preprocess_TestPreprocess.coverage" NAME="Unittests for test_preprocess.TestPreprocess Coverage Results" MODIFIED="1581011107769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/test" />
+    <SUITE FILE_PATH="coverage/Thesis2$Unittests_for_test_data_processor_TestCDRProcessor.coverage" NAME="Unittests for test_data_processor.TestCDRProcessor Coverage Results" MODIFIED="1581347535281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/test" />
+    <SUITE FILE_PATH="coverage/Thesis2$Unittests_for_test_preprocess_TestPreprocess_test_preprocess.coverage" NAME="Unittests for test_preprocess.TestPreprocess.test_preprocess Coverage Results" MODIFIED="1581011828972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/test" />
+    <SUITE FILE_PATH="coverage/Thesis2$Unittests_for_test_parser_TestCDRParser.coverage" NAME="Unittests for test_parser.TestCDRParser Coverage Results" MODIFIED="1581000654869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/test" />
+    <SUITE FILE_PATH="coverage/Thesis2$Unittests_for_test_data_managers_TestCDRDataManager.coverage" NAME="Unittests for test_data_managers.TestCDRDataManager Coverage Results" MODIFIED="1581008963656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/test" />
+    <SUITE FILE_PATH="coverage/Thesis2$Unittests_for_test_data_managers_TestCDRDataManager_test_cdr_data_manager.coverage" NAME="Unittests for test_data_managers.TestCDRDataManager.test_cdr_data_manager Coverage Results" MODIFIED="1581008973584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scripts/test" />
+  </component>
+</project>

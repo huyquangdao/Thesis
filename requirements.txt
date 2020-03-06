@@ -1,0 +1,11 @@
+torch
+nltk
+spacy
+matplotlib
+networkx
+scipy
+sklearn
+corenlp
+tqdm
+pandas
+pytorch-pretrained-bert
